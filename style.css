@@ -1,0 +1,27 @@
+    img{
+    float:left;
+    filter:invert(10%);
+    }
+    img:hover{
+    filter:invert(100%);
+    }
+    .pg0{
+    background-color:#5D8AA8;
+    }
+    .pg1{
+    background-color:#9DC183;  
+    color:#A52A2A;
+    }
+    .pg2{
+    background-color:#F8DE7E;
+    color:#004F98;
+    }
+    .pg3{
+    background-color:#FFE4C4;
+    color:#00755E;
+    }
+    iframe {
+    width: 65%;
+    height: 200;
+    }
+    
